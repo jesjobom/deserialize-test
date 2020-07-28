@@ -1,4 +1,4 @@
-package br.com.bbts.impl;
+package com.jesjobom.impl;
 
 class Model {
 

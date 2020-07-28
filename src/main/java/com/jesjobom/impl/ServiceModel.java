@@ -1,6 +1,6 @@
-package br.com.bbts.impl;
+package com.jesjobom.impl;
 
-import br.com.bbts.base.BaseService;
+import com.jesjobom.base.BaseService;
 import com.fasterxml.jackson.core.type.TypeReference;
 
 public class ServiceModel extends BaseService<Model> {

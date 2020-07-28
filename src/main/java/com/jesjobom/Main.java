@@ -1,7 +1,7 @@
-package br.com.bbts;
+package com.jesjobom;
 
-import br.com.bbts.impl.ServiceList;
-import br.com.bbts.impl.ServiceModel;
+import com.jesjobom.impl.ServiceList;
+import com.jesjobom.impl.ServiceModel;
 import com.fasterxml.jackson.core.JsonProcessingException;
 
 public class Main {

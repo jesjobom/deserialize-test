@@ -1,4 +1,4 @@
-package br.com.bbts.base;
+package com.jesjobom.base;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
